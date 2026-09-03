@@ -3,7 +3,7 @@ A simple coin-collecting game reimagined to fit the Waterloo Co-op narrative.
 Made using Pygame.
 
 # Installation 
-- itch.io
+https://roseabells.itch.io/the-search-for-co-op (Windows Only)
 
 # Instructions
 Use the arrow keys to move around and collect internships.
