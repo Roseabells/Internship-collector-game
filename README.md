@@ -1,6 +1,6 @@
 # Internship-collector-game
 A simple coin-collecting game reimagined to fit the Waterloo Co-op narrative.
-Made using Pygame.
+Made using Pygame Zero.
 
 # Installation 
 https://roseabells.itch.io/the-search-for-co-op (Windows Only)
